@@ -1,5 +1,5 @@
 # tie-fighters
-Software for functioning tie fighter objects
+Software to build tie fighter
 
 Tie Fighter H and S extend Tie Fighter. <br />
 Tie Fighter implements interfaces Maneuvering and Scanning. <br />
