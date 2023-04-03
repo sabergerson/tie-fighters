@@ -1,4 +1,4 @@
-# Tie_fighters
+# tie-fighters
 Software for functioning tie fighter objects
 
 Tie Fighter H and S extend Tie Fighter. <br />
